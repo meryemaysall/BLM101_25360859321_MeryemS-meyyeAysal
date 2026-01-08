@@ -1,7 +1,7 @@
 # BLM101_25360859321_MeryemS-meyyeAysal
 Öğrenci Bilgileri:Meryem Sümeyye Aysal 25360859321
 Proje Konusu:Veri Depolama Ve Sıkıştırma Algoritmaları
-Youtube Linki:
+Youtube Linki: https://youtu.be/RpQwVcwLPpU?si=xoL2D08NXMfD7yNC
 Proje Açıklaması:Kod Ne Yapıyor?
 Bu program, bilgisayar bilimlerinde Kayıpsız Sıkıştırma (Lossless Compression) yöntemlerinden biri olan Run-Length Encoding (RLE) algoritmasını simüle eder.
 Sıkıştırma (Encoding): Metin içerisindeki ardışık tekrar eden karakterleri tespit eder ve bunları tekrar_sayısı + karakter formatına dönüştürerek veri boyutunu küçültür.
